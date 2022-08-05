@@ -21,4 +21,4 @@ You may also see any lint errors in the console.
 ## Features:
   .Add tasks.\
   .1-click to complete and clear task.\
-  .Double-click to edit task.\
+  .Double-click to edit task.
