@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Uploading image.png…]()
-
 
 ## Available Scripts
 
@@ -21,6 +19,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Features:
-  .Add tasks
-  .1-click to complete and clear task
-  .Double-click to edit task
+  .Add tasks.\
+  .1-click to complete and clear task.\
+  .Double-click to edit task.\
